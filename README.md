@@ -11,6 +11,9 @@ A data analytics on Uber data using various tools and technologies, including GC
 ## Data Model
 <img src="datamodel.jpeg">
 
+## Dashboard
+<img src="dashboard.jpg">
+
 ## Technology Used
 - Programming Language - Python
 
